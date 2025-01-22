@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "npx tailwindcss -i ./src/rating/input.css -o ./src/rating/output.css --watch"
+    "start": "npx tailwindcss -i ./src/thank-you/input.css -o ./src/thank-you/output.css --watch"
   },
   "devDependencies": {
     "tailwindcss": "^3.4.17"
